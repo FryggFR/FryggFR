@@ -1,6 +1,49 @@
-### Hi there 👋
+## Hi there 👋
+
+### :man_beard: About me !
+- 🔭 I’m currently working on: IT - Pentester JR.
+- 🌱 I’m currently learning: I'm an eternal student. But actually, i learn english and python :smile:
+- 💬 Ask me about: Cybersecurity and new technologies !
+- 📫 How to reach me: On TryHackMe discord as Frygg !
+- ⚡ Fun fact: I don't have a degree in cybersecurity! :smile:
+
+### :computer: Competence:
+- Development:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-256/powershell-2-569189.png" title="ps" alt="ps" width="40" height="40"/>&nbsp;
+</div>
+
+- System: 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
+</div>
+
+### :frowning_man: Little bio !
+I'm passionate about IT, and more specifically about cybersecurity. 
+
+You'll find here various tools I've created, write up of the various TryHackMe/HackTheBox machines I've rooted.
+
+I hope you'll find what you're looking for! 
+
+<b>TryHackMe badge (Outdated 😢)</b>:
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Frygg.png" alt="TryHackMe">
+
+<i>I do far more rooms on TryHackMe than on HackTheBox. 
+
+Why ? Because the machines on TryHackMe are personal, whereas on HackTheBox, they're shared... </i>
 
 <!--
+https://github.com/devicons/devicon/
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+
+
 **FryggFR/FryggFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
