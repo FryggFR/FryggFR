@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: I'm an eternal student. But actually, i learn english and python :smile:
 - 💬 Ask me about: Cybersecurity and new technologies !
 - 📫 How to reach me: On TryHackMe discord as Frygg !
-- ⚡ Fun fact: I don't have a degree in cybersecurity! :smile:
+- ⚡ Fun fact: I don't have a degree in cybersecurity! :smile: I'm going to try OSCP soon to change that 😆
 
 ### :computer: Competence:
 - Development:
