@@ -2,9 +2,9 @@
 
 ### :man_beard: About me !
 - 🔭 I’m currently working on: Computing, I do several things, from small pentest to XDR-SIEM administration.
-- 🌱 I’m currently learning: I'm an eternal student. But actually, i learn english and python :smile:
+- 🌱 I’m currently learning: I'm an eternal student. But actually, i learn english and python.
 - 💬 Ask me about: Cybersecurity and new technologies !
-- 📫 How to reach me: On TryHackMe discord as Frygg !
+- 📫 How to reach me: On TryHackMe discord, my nickname is Frygg !
 - ⚡ Fun fact: I don't have a degree in cybersecurity! :smile: I'm going to try OSCP soon to change that 😆
 
 ### :computer: Competence:
