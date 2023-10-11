@@ -24,7 +24,7 @@
 </div>
 
 ### :frowning_man: Little bio !
-I'm passionate about IT, and more specifically about cybersecurity. 
+I'm :fr: guy who is passionate about IT, and more specifically about cybersecurity. 
 
 You'll find here various tools I've created, write up of the various TryHackMe/HackTheBox machines I've rooted.
 
