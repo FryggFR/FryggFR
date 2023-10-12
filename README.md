@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: I'm an eternal student. But actually, i learn english and python.
 - 💬 Ask me about: Cybersecurity and new technologies !
 - 📫 How to reach me: On TryHackMe discord, my nickname is Frygg !
-- ⚡ Fun fact: I don't have a degree in cybersecurity! :smile: I'm going to try OSCP soon to change that 😆
+- ⚡ Fun fact: I don't have a degree in cybersecurity! :smile: I'm going to try OSCP/eJPTv2 soon to change that 😆
 
 ### :computer: Competence:
 - Development:
