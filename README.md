@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### :man_beard: About me !
-- 🔭 I’m currently working on: Computing, I do several things, from small pentest to XDR-SIEM administration.
+- 🔭 I’m currently working on: I work in cybersecurity for a small company, I do several things, from small pentest to XDR-SIEM administration.
 - 🌱 I’m currently learning: I'm an eternal student. But actually, i trying to improve my english and python.
 - 💬 Ask me about: Cybersecurity and new technologies !
 - 📫 How to reach me: On TryHackMe discord, my nickname is Frygg !
