@@ -2,10 +2,10 @@
 
 ### :man_beard: About me !
 - 🔭 <ins>**I’m currently working on**</ins>: I work in cybersecurity for a small company, I do several things, from small pentest to XDR-SIEM administration.
-- 🌱 <ins>**I’m currently learning**</ins>: I'm an eternal student. But actually, i trying to improve my english and python.
+- 🌱 <ins>**I’m currently learning**</ins>: I'm an eternal student. But actually, i trying to improve my english and python skill.
 - 💬 <ins>**Ask me about**</ins>: Cybersecurity and new technologies !
-- 📫 <ins>**How to reach me**</ins>: On TryHackMe discord, my nickname is Frygg !
-- ⚡ <ins>**Fun fact**</ins>: I don't have a degree in cybersecurity! :smile: I'm going to try OSCP/eJPTv2 soon to change that 😆
+- 📫 <ins>**How to reach me**</ins>: On TryHackMe discord, my nickname is **Frygg** !
+- ⚡ <ins>**Fun fact**</ins>: I don't have a degree in cybersecurity! :smile: I'm going to try **OSCP**/**eJPTv2** soon to change that 😆
 
 ### :computer: Competence:
 - Development:
