@@ -33,9 +33,15 @@ I hope you'll find what you're looking for!
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Frygg.png" alt="TryHackMe">
 
+🏴‍☠️ <b>HackTheBox Badge</b>:
+
+<img src="https://www.hackthebox.com/badge/image/612475" alt="HackTheBox">
+
 <i>I do far more rooms on TryHackMe than on HackTheBox. 
 
-Why ? Because the machines on TryHackMe are personal, whereas on HackTheBox, they're shared... </i>
+Why :question:
+
+Because the machines on TryHackMe are personal, whereas on HackTheBox, they're shared... </i>
 
 <!--
 https://github.com/devicons/devicon/
