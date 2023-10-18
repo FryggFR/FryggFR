@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### :man_beard: About me !
+- :earth_africa: <ins>**I'm from**</ins>: :fr: France
 - 🔭 <ins>**I’m currently working on**</ins>: I work in cybersecurity for a small company, I do several things, from small pentest to XDR-SIEM administration.
 - 🌱 <ins>**I’m currently learning**</ins>: I'm an eternal student. But actually, i trying to improve my english and python skill.
 - ⚡ <ins>**Fun fact**</ins>: I don't have a degree in cybersecurity! :smile: I'm going to try **OSCP**/**eJPTv2** soon to change that !
-- :earth_africa: <ins>**Where i come from**</ins>: From :fr: FRANCE
 
 ### :computer: Competence:
 - Development:
