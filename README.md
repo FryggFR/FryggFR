@@ -29,7 +29,7 @@ You'll find here various tools I've created, write up of the various TryHackMe/H
 
 I hope you'll find what you're looking for! 
 
-:pirate_flag: <b>TryHackMe Badge</b>:
+:pirate_flag: <b>TryHackMe Badge (Outdated !)</b>:
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Frygg.png" alt="TryHackMe">
 
