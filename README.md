@@ -4,7 +4,8 @@
 - :earth_africa: <ins>**I'm from**</ins>: :fr: France
 - 🔭 <ins>**I’m currently working on**</ins>: I'm a CISO in a medium-sized company in France.
 - 🌱 <ins>**I’m currently learning**</ins>: I'm an eternal student..
-- ⚡ <ins>**Fun fact**</ins>: I don't have any degree in cybersecurity ! :smile: 
+- ⚡ <ins>**Fun fact**</ins>: I don't have any degree in cybersecurity ! :smile:
+- 📫 <ins>**Contact**</ins>: fryggfr@proton.me
 
 ### :computer: Competence:
 - Development:
@@ -23,7 +24,7 @@
 </div>
 
 ### :frowning_man: Little bio !
-I'm :fr: guy who is passionate about IT, and more specifically about cybersecurity. I love Offensive and Defensive aspect of Cybersecurity.
+I'm :fr: guy who is passionate about IT, and more specifically about cybersecurity. I love Offensive and Defensive aspect of Cybersecurity, i also like GRC.
 
 You'll find here various tools I've created, integration and write up of the various TryHackMe/HackTheBox machines I've rooted.
 
