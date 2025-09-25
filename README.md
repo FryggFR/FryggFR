@@ -2,9 +2,9 @@
 
 ### :man_beard: About me !
 - :earth_africa: <ins>**I'm from**</ins>: :fr: France
-- 🔭 <ins>**I’m currently working on**</ins>: I'm a cybersecurity project manager in a medium-sized company in France.
-- 🌱 <ins>**I’m currently learning**</ins>: I'm an eternal student. But actually, i'm trying to improve my english and python skill.
-- ⚡ <ins>**Fun fact**</ins>: I don't have any degree in cybersecurity! :smile: 
+- 🔭 <ins>**I’m currently working on**</ins>: I'm a CISO in a medium-sized company in France.
+- 🌱 <ins>**I’m currently learning**</ins>: I'm an eternal student..
+- ⚡ <ins>**Fun fact**</ins>: I don't have any degree in cybersecurity ! :smile: 
 
 ### :computer: Competence:
 - Development:
