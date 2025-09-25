@@ -26,7 +26,7 @@
 ### :frowning_man: Little bio !
 I'm :fr: guy who is passionate about IT, and more specifically about cybersecurity. I love Offensive and Defensive aspect of Cybersecurity, i also like GRC.
 
-You'll find here various tools I've created, integration and write up of the various TryHackMe/HackTheBox machines I've rooted.
+You'll find various tools I've created here, along with the integration and write-ups of the TryHackMe/HackTheBox machines I've rooted. This GitHub does not contain any scripts or other materials made as part of my work, only content created in my free time.
 
 I hope you'll find what you're looking for! 
 
