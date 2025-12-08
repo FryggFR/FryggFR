@@ -4,7 +4,6 @@
 - :earth_africa: <ins>**I'm from**</ins>: :fr: France
 - 🔭 <ins>**I’m currently working on**</ins>: I'm a CISO in a medium-sized company in France.
 - 🌱 <ins>**I’m currently learning**</ins>: I'm an eternal student..
-- ⚡ <ins>**Fun fact**</ins>: I don't have any degree in cybersecurity ! :smile:
 - 📫 <ins>**Contact**</ins>: fryggfr@proton.me
 
 ### :computer: Competence:
