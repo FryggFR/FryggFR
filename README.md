@@ -2,8 +2,8 @@
 
 ### :man_beard: About me !
 - :earth_africa: <ins>**I'm from**</ins>: :fr: France
-- 🔭 <ins>**I’m currently working on**</ins>: I'm a CISO in a medium-sized company in France.
-- 🌱 <ins>**I’m currently learning**</ins>: I'm an eternal student..
+- 🔭 <ins>**I’m currently working on**</ins>: I am the Chief Information Security Officer (CISO) of a medium-sized company in France.
+- 🌱 <ins>**I’m currently learning**</ins>: Python, more exploit !
 - 📫 <ins>**Contact**</ins>: fryggfr@proton.me
 
 ### :computer: Competence:
